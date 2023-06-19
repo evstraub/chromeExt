@@ -1,21 +1,6 @@
 # co9a446609df2474539d99006
+This is a chrome extension.
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+To see how it works download the source code, got to "chrome://extensions" in chrome.
+Then click "load unpacked" and click on my file you downloaded.
+Once it has downloaded click the "puzzle peice in the top right corner, find the green "leads tracker" and try iy out!
